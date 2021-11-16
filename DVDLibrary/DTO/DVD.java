@@ -8,7 +8,7 @@ package DTO;
  * This class is the DVD class that contains 
  * getters and setters for each feature of the movie,
  * as well as a constructor to construct a new DVD variable.
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class DVD {
