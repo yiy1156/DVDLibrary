@@ -15,7 +15,7 @@ import java.util.*;
  * This class is the controller, it controls the menu, as well as
  * implementing different methods for different options.
  * This program allows 5 different features for users to interact with the dvd library
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class DVDLibraryController {
