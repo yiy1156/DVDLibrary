@@ -9,7 +9,7 @@ import java.util.*;
 
 /**
  * This interface provides all methods needed to be implemented in DVDLibraryDAOImpl
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public interface DVDLibraryDAO {
