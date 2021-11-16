@@ -1,5 +1,4 @@
-# week-2-assignment-yy2325
-week-2-assignment-yy2325 created by GitHub Classroom
+
 # Overview
 The purpose of this assessment is to demonstrate your proficiency in basic Java syntax involving console input and output, basic file input and output, basic string/text manipulation, flow of control statements, expressions, and basic data structures such as arrays, Lists, and Maps. Additionally, you will demonstrate your proficiency in implementing the MVC design pattern and dependency injection.
 
