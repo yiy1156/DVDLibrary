@@ -6,7 +6,7 @@
 package UI;
 /**
  * The interface provides list of methods to be implemented for UserIOConsoleImpl
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public interface UserIO {
