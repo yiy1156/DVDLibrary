@@ -10,7 +10,7 @@ import java.io.*;
 /**
  * This class implements file I/O, including reading and writing data from and to 
  * dvdlibrary.txt file
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class DVDLibraryDAOImpl implements DVDLibraryDAO{
