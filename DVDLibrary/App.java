@@ -14,7 +14,7 @@ import UI.UserIO;
 
 /**
  * This class contains the main method that runs the application
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class App {
