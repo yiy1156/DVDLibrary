@@ -10,7 +10,7 @@ import java.util.*;
 /**
  * This class will show all the messages that will print to the user when running
  * the application.
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class DVDLibraryView {
