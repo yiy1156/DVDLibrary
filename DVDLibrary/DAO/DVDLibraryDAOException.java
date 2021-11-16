@@ -6,7 +6,7 @@
 package DAO;
 /**
  * This class defines the DVDLibraryDAOException and the error message
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class DVDLibraryDAOException extends Exception {
